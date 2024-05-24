@@ -9,7 +9,7 @@
  * isEven(2); // true
  * isEven(5); // false
  * isEven("Hello"); // exception is thrown
- * isNotEven(2); // true
+ * isNotEven(2); // false
  * isOdd(3); // true
  * isNotOdd(27); // false
  * ````
