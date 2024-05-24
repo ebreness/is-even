@@ -55,5 +55,5 @@ export function isNotEven(n: number): boolean {
  * @returns true if `n` is even, false otherwise.
  */
 export function isNotOdd(n: number): boolean {
-  return !isOdd(n);
+  return isEven(n);
 }
